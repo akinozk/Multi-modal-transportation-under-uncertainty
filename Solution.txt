@@ -1,0 +1,57 @@
+Solution
+Number of goods: 8
+Total cost: 1536.37
+------------------------------------
+Goods-1
+Order date: 2018-02-01
+Route:
+(1)Date: 2018-02-04  From: Singapore Warehouse  To: Singapore Port  By: Truck
+(2)Date: 2018-02-05  From: Singapore Port  To: Shanghai Port  By: Sea
+(3)Date: 2018-02-13  From: Shanghai Port  To: Shanghai Warehouse  By: Truck
+(4)Date: 2018-02-14  From: Shanghai Warehouse  To: Wuxi Warehouse  By: Truck
+------------------------------------
+Goods-2
+Order date: 2018-02-02
+Route:
+(1)Date: 2018-02-02  From: Malaysia Warehouse  To: Malaysia Port  By: Truck
+(2)Date: 2018-02-03  From: Malaysia Port  To: Shanghai Port  By: Sea
+(3)Date: 2018-02-10  From: Shanghai Port  To: Shanghai Warehouse  By: Truck
+------------------------------------
+Goods-3
+Order date: 2018-02-03
+Route:
+(1)Date: 2018-02-04  From: Singapore Warehouse  To: Singapore Port  By: Truck
+(2)Date: 2018-02-05  From: Singapore Port  To: Shanghai Port  By: Sea
+(3)Date: 2018-02-13  From: Shanghai Port  To: Shanghai Warehouse  By: Truck
+------------------------------------
+Goods-4
+Order date: 2018-02-04
+Route:
+(1)Date: 2018-02-04  From: Singapore Warehouse  To: Singapore Port  By: Truck
+(2)Date: 2018-02-05  From: Singapore Port  To: Shanghai Port  By: Sea
+(3)Date: 2018-02-13  From: Shanghai Port  To: Shanghai Warehouse  By: Truck
+------------------------------------
+Goods-5
+Order date: 2018-02-05
+Route:
+(1)Date: 2018-02-05  From: Wuxi Warehouse  To: Shanghai Warehouse  By: Truck
+(2)Date: 2018-02-06  From: Shanghai Warehouse  To: Shanghai Port  By: Truck
+(3)Date: 2018-02-07  From: Shanghai Port  To: Malaysia Port  By: Sea
+(4)Date: 2018-02-14  From: Malaysia Port  To: Malaysia Warehouse  By: Truck
+------------------------------------
+Goods-6
+Order date: 2018-02-06
+Route:
+(1)Date: 2018-02-06  From: Shanghai Warehouse  To: Shanghai Port  By: Truck
+(2)Date: 2018-02-07  From: Shanghai Port  To: Singapore Port  By: Sea
+(3)Date: 2018-02-15  From: Singapore Port  To: Singapore Warehouse  By: Truck
+------------------------------------
+Goods-7
+Order date: 2018-02-07
+Route:
+(1)Date: 2018-02-07  From: Malaysia Warehouse  To: Singapore Warehouse  By: Truck
+------------------------------------
+Goods-8
+Order date: 2018-02-08
+Route:
+(1)Date: 2018-02-08  From: Wuxi Warehouse  To: Shanghai Warehouse  By: Truck
